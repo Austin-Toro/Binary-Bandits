@@ -1,2 +1,2 @@
-# Binary-Bandits
+# SmartBoard
 cmp-280
